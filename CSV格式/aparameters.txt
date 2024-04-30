@@ -1,0 +1,99 @@
+data_address = 'BPIC12.csv'
+case_num = 13087
+attributes_ = ['concept:name','org:resource','lifecycle:transition']
+
+data_address = 'BPIC12_C.csv'
+case_num = 13087
+attributes_ = ['concept:name','org:resource','lifecycle:transition']
+
+data_address = 'BPIC12_W.csv'
+case_num = 9658
+attributes_ = ['concept:name','org:resource','lifecycle:transition']
+
+data_address = 'BPIC12_WC.csv'
+case_num = 9658
+attributes_ = ['concept:name','org:resource','lifecycle:transition']
+
+data_address = 'BPIC12_Accepted.csv'
+case_num = 5113
+attributes_ = ['concept:name','org:group','lifecycle:transition']
+
+data_address = 'BPIC12_Cancelled.csv'
+case_num = 3827
+attributes_ = ['concept:name','org:group','lifecycle:transition']
+
+data_address = 'BPIC12_Declined.csv'
+case_num = 7635
+attributes_ = ['concept:name','org:group','lifecycle:transition']
+
+data_address = 'BPIC13_P.csv'
+case_num = 2306
+attributes_ = ['concept:name','org:group','resource country','organization country','org:resource','organization involved','org:role','impact','product','lifecycle:transition']
+
+data_address = 'BPIC13_I.csv'
+case_num = 7554
+attributes_ = ['concept:name','resource country','organization country','organization involved','org:role','impact','lifecycle:transition']
+
+data_address = 'BPIC15_1.csv'
+case_num = 1199
+attributes_ = ['activityNameEN','monitoringResource','org:resource','question','dateFinished','action_code','planned','lifecycle:transition']
+
+data_address = 'BPIC15_2.csv'
+case_num = 832
+attributes_ = ['activityNameEN','monitoringResource','org:resource','question','dateFinished','action_code','planned','lifecycle:transition']
+
+data_address = 'BPIC15_3.csv'
+case_num = 1409
+attributes_ = ['activityNameEN','monitoringResource','org:resource','question','dateFinished','action_code','planned','lifecycle:transition']
+
+data_address = 'BPIC15_4.csv'
+case_num = 1053
+attributes_ = ['activityNameEN','monitoringResource','org:resource','question','dateFinished','action_code','planned','lifecycle:transition']
+
+data_address = 'BPIC15_5.csv'
+case_num = 1156
+attributes_ = ['activityNameEN','monitoringResource','org:resource','question','dateFinished','action_code','planned','lifecycle:transition']
+
+data_address = 'BPIC17.csv'
+case_num = 31509
+attributes_ = ['concept:name','Action','org:resource','EventOrigin','lifecycle:transition']
+
+data_address = 'BPIC17_O.csv'
+case_num = 42995
+attributes_ = ['concept:name','Action','org:resource','EventOrigin','lifecycle:transition']
+
+data_address = 'BPIC18.csv'
+case_num = 43809
+attributes_ = ['concept:name','org:resource','docid_uuid','doctype','subprocess','docid','activity','note','eventid']
+
+data_address = 'BPIC20_D.csv'
+case_num = 10500
+attributes_ = ['concept:name','org:resource','org:role']
+
+data_address = 'BPIC20_I.csv'
+case_num = 6449
+attributes_ = ['concept:name','org:resource','org:role']
+
+data_address = 'BPIC20_Pe.csv'
+case_num = 7065
+attributes_ = ['concept:name','org:resource','org:role']
+
+data_address = 'BPIC20_Pr.csv'
+case_num = 2099
+attributes_ = ['concept:name','org:resource','org:role']
+
+data_address = 'BPIC20_R.csv'
+case_num = 6886
+attributes_ = ['concept:name','org:resource','org:role']
+
+data_address = 'Sepsis.csv'
+attributes_ = ['concept:name','org:group','lifecycle:transition']
+case_num = 1050
+
+data_address = 'Helpdesk.csv'
+attributes_ = ['Activity','Resource','Variant','seriousness','customer','product','responsible_section','seriousness_2','service_level','service_type','support_section','workgroup']
+case_num = 4580
+
+data_address = 'Receipt.csv'
+attributes_ = ['concept:name','org:resource']
+case_num = 1434
